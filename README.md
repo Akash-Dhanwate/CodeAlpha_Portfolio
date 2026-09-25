@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./public/Images/home1.png" alt="CodeWithSky Portfolio" width="900"/>
+<img src="./Images/home1.png" alt="CodeWithSky Portfolio" width="900"/>
 
 <br/>
 
@@ -42,31 +42,31 @@ The portfolio is built to be more than a traditional resume — it represents th
 
 ### 🏠 Home
 
-<img src="./public/Images/home1.png" alt="CodeWithSky Home Page" width="900"/>
+<img src="./Images/home1.png" alt="CodeWithSky Home Page" width="900"/>
 
 <br/><br/>
 
 ### 👨‍💻 About
 
-<img src="./public/Images/home2.png" alt="CodeWithSky About Section" width="900"/>
+<img src="./Images/home2.png" alt="CodeWithSky About Section" width="900"/>
 
 <br/><br/>
 
 ### 🛠️ Skills
 
-<img src="./public/Images/home3.png" alt="CodeWithSky Skills Section" width="900"/>
+<img src="./Images/home3.png" alt="CodeWithSky Skills Section" width="900"/>
 
 <br/><br/>
 
 ### 🚀 Projects
 
-<img src="./public/Images/home4.png" alt="CodeWithSky Projects Section" width="900"/>
+<img src="./Images/home4.png" alt="CodeWithSky Projects Section" width="900"/>
 
 <br/><br/>
 
 ### 📬 Contact
 
-<img src="./public/Images/home5.png" alt="CodeWithSky Contact Section" width="900"/>
+<img src="./Images/home5.png" alt="CodeWithSky Contact Section" width="900"/>
 
 </div>
 
